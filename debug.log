@@ -1,0 +1,2 @@
+[1116/194446.176:ERROR:crash_report_database_win.cc(609)] CreateDirectory C:\Users\PC1\AppData\Local\Temp\karma-76478173\Crashpad: El sistema no puede encontrar la ruta especificada. (0x3)
+[1116/194446.186:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event

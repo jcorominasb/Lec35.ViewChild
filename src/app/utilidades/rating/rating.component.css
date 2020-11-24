@@ -1,0 +1,8 @@
+.checked {
+    color: orange;
+}
+
+/* Volem que el cursor mostri un pinter (una ma) */
+mat-icon {
+    cursor: pointer;
+}

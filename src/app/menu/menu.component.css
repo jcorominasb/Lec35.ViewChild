@@ -1,0 +1,10 @@
+mat-toolbar {
+    /* Aquesta clase fa que la barra de menu estigui fixa */
+    position: sticky;
+    /* Per a que funcioi en safary */
+    position: -webkit-sticky;
+    /* Per que la situació de la barra de menu sigui a dalt */
+    top: 0;
+    /* Per a que es coloqui a sobre d'altres elements */
+    z-index: 1000;
+}
